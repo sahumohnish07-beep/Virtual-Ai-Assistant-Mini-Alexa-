@@ -1,0 +1,9 @@
+SpeechRecognition
+pyaudio
+pyttsx3
+wikipedia
+requests
+pywhatkit
+pyjokes
+rapidfuzz
+python-dotenv
